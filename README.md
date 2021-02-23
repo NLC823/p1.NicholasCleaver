@@ -1,2 +1,2 @@
-# p1.NicholasCleaver
-Human Computer Interaction | Spring 2021 | Texas Tech University
+# Microwave Project | Human Computer Interaction
+Nicholas Cleaver | Spring 2021 | Texas Tech University
