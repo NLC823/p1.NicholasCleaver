@@ -26,4 +26,6 @@ This microwave is very convienent for standard everyday uses. It is intuitive to
 
 First, the button  to the right of 0, what does it mean to have a timer / clock button? This button is not easily discovered without experimentation, in fact, I had to return to the kitchen to really remember what it did. Pressing this button once will allow you to set the time to whatever time by pressing the numbers, but pressing the button again brings up EE. I have no idea what EE means and pressing any other button on the microwave has no effect when the microwave is in this state. To exit this state you must press the Stop / Clear button.
 
-
+<div style="text-align: center">
+<img src="Microwave-ee.gif" width=650>
+</div>
