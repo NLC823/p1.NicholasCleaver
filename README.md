@@ -1,7 +1,5 @@
 # Microwave Project | Human Computer Interaction
 #### Nicholas Cleaver | Spring 2021 | Texas Tech University
-
-
 ## Part 1
 This is the microwave we have in my house:
 
@@ -33,3 +31,5 @@ First, the button to the right of **0**, what does it mean to have a **Timer / C
 Second there are several buttons on the microwave in which it is not clear what they do to the microwave. These buttons appear at the bottom of the interface and include **Cook**, **Defrost**, **Reheat**, **Melt** and **Soften**. Are these buttons quick ways to start timers of specific lengths? Do these buttons change the power level of the microwave? Do these buttons automatically start or do you need to press start after pressing one of these buttons? I have had this microwave for years and I do not think I can answer a single one of these questions for any of these buttons. The choice of words used, however, has meaning in English so maybe if we want to soften some butter, we can just throw it in the microwave and press **Soften**. It might work, but it is still unclear what the microwave does to achieve this.
 
 ## Part 2
+
+
