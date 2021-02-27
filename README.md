@@ -15,3 +15,5 @@ And here you can see it in use:
 And this is the interface up close:
 
 <img src="Microwave-interface.jpg" width=450>
+
+This microwave is very convienent for standard everyday uses. It is intuitive to press the numbers and then press start and have the microwave work for the designated time. 
