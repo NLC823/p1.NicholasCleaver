@@ -10,7 +10,7 @@ This is the microwave we have in my house.
 
 And here you can see it in use.
 
-<img src="Microwave-in-use.gif" width=450>
+<img src="Microwave-in-use.gif" width=650>
 
 And this is the interface up close
 
