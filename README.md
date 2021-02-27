@@ -5,8 +5,13 @@
 ## Part 1
 This is the microwave we have in my house.
 
-<img src="Microwave-interface.jpg" width=450>
+<img src="Microwave-full.jpg" width=500>
+<img src="Microwave-open.jpg" width=500>
 
 And here you can see it in use.
 
 <img src="Microwave-in-use.gif" width=450>
+
+And this is the interface up close
+
+<img src="Microwave-interface.jpg" width=450>
