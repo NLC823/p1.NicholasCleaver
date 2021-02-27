@@ -5,7 +5,7 @@
 ## Part 1
 This is the microwave we have in my house:
 
-<img src="Microwave-full.jpg" width=500>
+<img src="Microwave-full.jpg" width=500 style="text-align: center">
 <img src="Microwave-open.jpg" width=500>
 
 And here you can see it in use:
