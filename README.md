@@ -3,4 +3,5 @@ Nicholas Cleaver | Spring 2021 | Texas Tech University
 
 
 ## Part 1
-![](Home-Microwave.gif)
+![](Microwave-in-use.gif)
+![](Microwave-interface.jpg)
