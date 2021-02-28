@@ -39,12 +39,12 @@ The most common thing I do with a microwave, by far, is set a timer for a desire
 My least common uses of this microwave include addins extra time while the microwave is going and using any of the interesting buttons at the bottom. The **Minute Plus** button adds a minute to the current microwave time with a single press and is very easy to use, however, the buttons at the bottom are a different story. As explained above, these buttons being you to a complicated menu sequence where you need to have memorized codes for what you want to accomplish and I don't even know how to start the microwave in this mode.
 
 The most common sequence of actions I take when using the microwave is:
-1: Open the door
-2: Place dish inside
-3: Close the door
-4: Enter time to cook
-5: Press **Start**
-6: Wait for dish to be ready
-7: Open the door
-8: Remove dish, now warm
-9: Close the door
+1. Open the door
+2. Place dish inside
+3. Close the door
+4. Enter time to cook
+5. Press **Start**
+6. Wait for dish to be ready
+7. Open the door
+8. Remove dish, now warm
+9. Close the door
