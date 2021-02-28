@@ -61,11 +61,10 @@ One common mistake you could make when starting out with the microwave involves 
 
 If I was to fix the problems with the microwave interface, the first thing I would do is remove the buttons along the bottom. As I have made very clear, these buttons are useless unless you want to memorize a bunch of codes and spend significant time learning exactly what they do. The removal of these buttons will take away next to nothing from the user while also freeing up space to enlarge some more important parts of the interface. The parts of the interface I would enlarge with the extra space is the clock at the top and the **Start** and **Stop / Clear** buttons. Enlarging the clock will make it easier to see how much time is remaining from far away and the **Start** and **Stop / Clear** buttons are most important so making them larger gives emphasis to this as well as making them easier to press. Next I would change the name of the **Minute Plus** button to be **+1 Minute**. I think this is a much more intuitive name for what the button does. I would also change the name of the **Start** button to be **Start / Save** as the start button is used as a confirmation button in many of the microwaves menu screens. If I had the power to change functionality as well I would make the **Power** button bring you to a screen where you can enter the power with the buttons and either re-pressing the **Power** button or pressing the **Start / Save** button would save the power level until it is changed  again. I would also change the **Timer / Clock** button to save the time when you press either the **Start / Save** or repress the **Timer / Clock** button. This would get rid of the EE error I get when I press the **Timer / Clock** button twice.
 
-Below you can see a side by side of the old interface and what I drew to fix a lot of the issues:
+Below you can see a sketch of my new design for this microwave:
 
 <div style="text-align: center">
-<img src="Microwave-interface.jpg" height= 450>
-<img src="Microwave-remodel.jpg" height= 450>
+<img src="Microwave-remodel.jpg" width = 450>
 </div>
 
 ## Part 3
