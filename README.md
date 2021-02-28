@@ -64,7 +64,7 @@ If I was to fix the problems with the microwave interface, the first thing I wou
 Below you can see a side by side of the old interface and what I drew to fix a lot of the issues:
 
 <div style="text-align: center">
-<img src="Microwave-interface.jpg" width=250>
+<img src="Microwave-interface.jpg" height= 450>
 </div>
 
 ## Part 3
