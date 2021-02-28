@@ -65,6 +65,7 @@ Below you can see a side by side of the old interface and what I drew to fix a l
 
 <div style="text-align: center">
 <img src="Microwave-interface.jpg" height= 450>
+<img src="Microwave-remodel.jpg" height= 450>
 </div>
 
 ## Part 3
