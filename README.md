@@ -1,5 +1,6 @@
 # Microwave Project | Human Computer Interaction
 #### Nicholas Cleaver | Spring 2021 | Texas Tech University
+<a href="https://github.com/NLC823/p1.NicholasCleaver/blob/main/README.md#part-1" For C>
 ## Part 1
 This is the microwave we have in my house:
 
