@@ -110,6 +110,7 @@ void draw_timer_screen(){
       Seconds = 59;
     }
     else{
+      progress = -1;
       State = "home";
     }
     Timer_base = time;
@@ -130,7 +131,10 @@ void draw_timer_screen(){
   }
   fill(40, 41, 40);
   rect(50, 195, 300, 20); //progress bar
-  width = int((progress / Timer_total) * 300); 
+  width = int((progress / Timer_total) * 300);
+  if (width > 300){
+    width = 300;
+  }
   fill(71, 108, 52);
   rect(50, 195, width, 20); //progress bar green part
   fill(208, 220, 215);
