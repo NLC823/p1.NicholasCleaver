@@ -70,10 +70,20 @@ Below you can see a sketch of my new design for this microwave:
 
 ## Part 3
 
-I designed my microwave interface to be simple and intuitive. I have the screen display a number pad by default and this number pad will allow the user to enter a time and press start. Doing so will have the microwave go for the designated amount of time. There is also a button that lets you easily change the power of the microwave, using the number ad again, and save your changes. These changes will last until the power is changed again, but there is no need to worry about forgetting your microwave on a low power setting because there is a bar that displays a pictoral representation of how much power the microwave is set to that is easily visible on the main screen. Another feature of the microwave is quickly adding time to the microwave while it is running. There are three buttons. A **+10 Seconds** one, a **+30 Seconds** one and a **+1 Minute** one. These buttons do exactly as they say; adding the designated amount of time to the microwave while it is running. Please see the following gifs for operation of the main features:
+I designed my microwave interface to be simple and intuitive. I have the screen display a number pad by default and this number pad will allow the user to enter a time and press start. Doing so will have the microwave go for the designated amount of time, see below:
 
 <div style="text-align: center">
 <img src="Microwave-set-timer.gif" width=500>
+</div>
+  
+There is also a button that lets you easily change the power of the microwave, using the number pad, and save your changes. These changes will last until the power is changed again, but there is no need to worry about forgetting your microwave on a low power setting because there is a bar that displays a pictorial representation of how much power the microwave is set to that is easily visible on the main screen. See the image below:
+
+<div style="text-align: center">
 <img src="Microwave-add-time.gif" width=500>
+</div>
+
+Another feature of the microwave is quickly adding time to the microwave while it is running. There are three buttons. A **+10 Seconds** one, a **+30 Seconds** one and a **+1 Minute** one. These buttons do exactly as they say; adding the designated amount of time to the microwave while it is running, see below for this feature:
+
+<div style="text-align: center">
 <img src="Microwave-change-power.gif" width=500>
 </div>
